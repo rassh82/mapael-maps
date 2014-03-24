@@ -6,7 +6,7 @@
 * Map of Thailand
 
 * @author Saravut Sanghirun & Nantamano Thawarow
-* @source 
+* @Admincourt.go.th
 */
 (function($) {
 	$.extend(true, $.fn.mapael, 
